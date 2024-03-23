@@ -1,0 +1,156 @@
+[33mcommit 686fffb4c182b15777ce7900b3d3ccb900f0b65b[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Ezequiel Maleplate <maleplateeze@gmail.com>
+Date:   Wed Mar 20 23:41:16 2024 -0300
+
+    hace hasta la 7
+
+[33mcommit 8b7d2ea72e55a41ba6bc7790a629141f77e5390d[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: AlejoBengo <alejobengo@gmail.com>
+Date:   Tue Feb 6 13:47:34 2024 +0100
+
+    reported problems solved
+
+[33mcommit 87da96405846c5d1634276ba44e2261b6a2fb905[m
+Merge: dd6d53a be44219
+Author: AlejoBengo <93496125+HX-ABengoechea@users.noreply.github.com>
+Date:   Thu Jan 25 20:11:20 2024 +0100
+
+    Merge pull request #65 from Thayrov/main
+    
+    🧪 [TEST]: Reestructuración de tests para callbacks
+
+[33mcommit be442192243209ae1c13933f3e869b7f6b497c5b[m
+Author: Thayrov Garcia <105318081+Thayrov@users.noreply.github.com>
+Date:   Fri Jan 19 15:03:36 2024 -0600
+
+    Update M8CT8.test.js
+    
+    Se eliminan comentarios
+
+[33mcommit c9db96c77828377ad5bcf017fdefa264e7b730ca[m
+Author: thayrov <thayrovg@gmail.com>
+Date:   Fri Jan 19 14:38:13 2024 -0600
+
+    🧪 [TEST]: Reestructuración de tests para callbacks
+    
+    Se han envuelto los tests existentes en el archivo M8CT8.test.js dentro de bloques describe y test para asegurar que Jest pueda ejecutar las pruebas unitarias correctamente. Este cambio estructural permite a los estudiantes ejecutar pruebas individuales, ofreciendo una retroalimentación más clara para sus ejercicios de callbacks y mejorando la experiencia de aprendizaje en el módulo correspondiente del bootcamp.
+
+[33mcommit dd6d53a25a80e499b7e25925626f18b4c3215a8a[m
+Author: AlejoBengo <alejobengo@gmail.com>
+Date:   Thu Jan 4 13:16:56 2024 +0100
+
+    Readme fix
+
+[33mcommit 0da2bdbe6e7b342b3f98ca84ac5c1211712bcc59[m
+Author: AlejoBengo <alejobengo@gmail.com>
+Date:   Wed Jan 3 22:11:24 2024 +0100
+
+    Testing reparation
+
+[33mcommit 8fc2006ca8fbed23083db7bdad33b64ac3737271[m
+Author: AlejoBengo <alejobengo@gmail.com>
+Date:   Thu Dec 14 15:48:59 2023 -0300
+
+    Corrección
+
+[33mcommit 4314bee17301aec97a82fbc6f3d172f5fc66917f[m
+Author: AlejoBengo <alejobengo@gmail.com>
+Date:   Mon Dec 4 13:01:40 2023 -0300
+
+    new asset
+
+[33mcommit ffdad8982f38b10502a51ab3d7cc61b439a29b9a[m
+Author: AlejoBengo <alejobengo@gmail.com>
+Date:   Mon Dec 4 13:00:57 2023 -0300
+
+    delete unuseful folder
+
+[33mcommit 8429552af03f9d2768236e1e42d0e6863d846ba6[m
+Author: AlejoBengo <alejobengo@gmail.com>
+Date:   Mon Dec 4 12:55:42 2023 -0300
+
+    New Prep
+
+[33mcommit ca044846c076c8f34865b76f808fd4cf091ac57d[m
+Author: AlejoBengo <alejobengo@gmail.com>
+Date:   Thu Jun 29 11:47:40 2023 -0300
+
+    [ADD][DIDACTICA] Instrucción de subir cambios al repo
+
+[33mcommit d9014a1c2692636ba47bb7af245c8d66ad3842ae[m
+Author: AlejoBengo <alejobengo@gmail.com>
+Date:   Thu Jan 26 14:59:47 2023 -0300
+
+    delete unuseful pictures
+
+[33mcommit 02ac1c3f48bdf069b9fad0ffdbb70f61987aade5[m
+Author: AlejoBengo <alejobengo@gmail.com>
+Date:   Wed Jan 25 11:03:26 2023 -0300
+
+    fix errores con true/false en enunciados
+
+[33mcommit a09857097e935a0fe06a758a6fe40d4654faa9a3[m
+Author: AlejoBengo <alejobengo@gmail.com>
+Date:   Tue Jan 24 19:06:00 2023 -0300
+
+    Mejorando explicación
+
+[33mcommit 36ca78ebe911da13db9d64fe6f9a6154a2f21a9e[m
+Author: UsuarioDeGithub <tu@correo.com>
+Date:   Tue Jan 17 23:14:47 2023 -0300
+
+    modify exercises
+
+[33mcommit 2f8bb84fb18e481a0616b0b73582787cb3400cdb[m
+Author: UsuarioDeGithub <tu@correo.com>
+Date:   Tue Jan 17 23:12:17 2023 -0300
+
+    change the word rectangle to square
+
+[33mcommit 1bb9c72fe26aa5300cc3953caa068115ec0009ec[m
+Author: UsuarioDeGithub <tu@correo.com>
+Date:   Tue Jan 17 23:10:51 2023 -0300
+
+    change the order of exercises
+
+[33mcommit c13d29b9114335a25bcac5b403303fc838a86da2[m
+Author: UsuarioDeGithub <tu@correo.com>
+Date:   Tue Jan 17 23:10:04 2023 -0300
+
+    correct misspelled word
+
+[33mcommit d2798c5a7086c2585f69289b4b571166c7076754[m
+Author: AlejoBengo <alejobengo@gmail.com>
+Date:   Mon Jan 2 17:54:03 2023 -0300
+
+    Delete 'Open House' section
+
+[33mcommit 69ac13cda5174c64ec80874fbf4f9b529a7004e1[m
+Author: AlejoBengo <alejobengo@gmail.com>
+Date:   Mon Jan 2 17:49:33 2023 -0300
+
+    New Extra Credit exercises
+
+[33mcommit 8b99e69ff69bfe66d6d2decf745e25af6eabf52b[m
+Author: AlejoBengo <alejobengo@gmail.com>
+Date:   Fri Dec 16 09:34:12 2022 -0300
+
+    Nuevo video M2
+
+[33mcommit 2c4d147f67807c054f32fe721db4809892b8d6dd[m
+Author: AlejoBengo <alejobengo@gmail.com>
+Date:   Tue Dec 13 19:58:12 2022 -0300
+
+    First Commit
+
+[33mcommit 618dc4c03f2b1eb5728162ed46d67c0022012594[m
+Author: AlejoBengo <alejobengo@gmail.com>
+Date:   Mon Dec 12 16:16:15 2022 -0300
+
+    New folders names
+
+[33mcommit ce226cb9e80864c97364d73bfd9d3f4dd2296027[m
+Author: AlejoBengo <alejobengo@gmail.com>
+Date:   Wed Dec 7 14:45:19 2022 -0300
+
+    first commit
