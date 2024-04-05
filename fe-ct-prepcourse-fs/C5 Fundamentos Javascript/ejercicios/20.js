@@ -8,13 +8,13 @@ letra = letra.toLowerCase()
 var vocales = "aeiou"
 
 if (vocales.includes(letra)){
-  return "es vocal"
+  return "Es vocal"
 }
 else if(letra.length > 2){
   return "Dato incorrecto"
 
 }else {
-  
+  return "Dato incorrecto"
 }
 }
 
