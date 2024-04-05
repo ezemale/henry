@@ -3,38 +3,46 @@ function esIgualYNegativo(a, b) {
   // Determina si son iguales y son ambos negativos.
   // De ser así, retorna true, de lo contrario, retorna false.
   // Tu código:
-}
 
-for (let index = 0; index < array.length; index++) {
-  const element = array[index];
-  
-
+if(a === b && a < 0 && b < 0 ){
+ return true
 }
 
 
-for (const key in object) {
-  if (Object.hasOwnProperty.call(object, key)) {
-    const element = object[key];
+else return false
+
+
+
+}
+
+
+
+
+
+
+// for (const key in object) {
+//   if (Object.hasOwnProperty.call(object, key)) {
+//     const element = object[key];
     
-  }
-}
-array.forEach(element => {
+//   }
+// }
+// array.forEach(element => {
   
-});
-var i = 0
-while (condition) {
-   console-log(i)
-   i++
-}
+// });
+// var i = 0
+// while (condition) {
+//    console-log(i)
+//    i++
+// }
 
-var color = rojo 
-switch(color){
-  case
+// var color = rojo 
+// switch(color){
+//   case
 
-}
+// }
 
 
-do {
+// do {
   
-} while (condition);
+// } while (condition);
 module.exports = esIgualYNegativo;
